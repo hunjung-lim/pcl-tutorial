@@ -21,7 +21,7 @@ Point cloud를 처리를 위한 라이브러리로는 PCL, PCL-python, Open3D, p
 
 진행은 Lidar로 수집되는 점군 데이터에서 사람을 추출 하는 3D People Detection 구현을 목표로 하고 있습니다.
 
-|![](lobby_demo.gif)|![](office_demo.gif)|
+|![](./imageslobby_demo.gif)|![](./images/office_demo.gif)|
 |-|-|
 |[초급] People Detection|[중급] People Detection and Tracking|
 
