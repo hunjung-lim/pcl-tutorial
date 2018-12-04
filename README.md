@@ -1,4 +1,6 @@
-# PCL 정리 노트
+![](./images/lobby_demo.gif)
+
+# PCL Tutorial
 
 그동안 살펴 보았던 PCL 사용 및 활용에 대하여 정리 하고자 합니다.
 
@@ -17,24 +19,9 @@ Point cloud를 처리를 위한 라이브러리로는 PCL, PCL-python, Open3D, p
 
 > [PCL-To-All Docker](https://hub.docker.com/r/adioshun/pcl_to_all/) : Ubuntu 16, ROS, PCL-python, Open3D, Jupyter, etc. 설치
 
-## Mini Project
-
 진행은 Lidar로 수집되는 점군 데이터에서 사람을 추출 하는 3D People Detection 구현을 목표로 하고 있습니다.
 
-|![](./imageslobby_demo.gif)|![](./images/office_demo.gif)|
-|-|-|
-|[초급] People Detection|[중급] People Detection and Tracking|
 
-[초급] People Detection
-- 대상 환경 : 사람외 사물이 없는 공간(eg. 로비)
-- 주요 기술 : 필터링, 바닥제거, 노이즈제거, 클러스터링
-
-[중급] People Detection and Tracking
-- 대상 환경 : 사람과 사물이 공존하는 공간(eg. 사무실)
-- 주요 기술 : 초급 기술 + 배경제거, 추적
-
-[고급] People Detection and Tracking with Deeplearning
-- End-to-End (딥러닝 으로 가능할까??)
 
 ## Plan
 
