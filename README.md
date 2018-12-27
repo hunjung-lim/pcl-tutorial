@@ -1,4 +1,4 @@
-![](./images/lobby_demo.gif)
+[](./images/lobby_demo.gif)
 
 # PCL Tutorial
 
